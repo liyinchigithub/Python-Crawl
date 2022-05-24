@@ -1,0 +1,12 @@
+{
+	"email": {
+		"mail_host":"smtp.qq.com",
+		"mail_user":"565111400@qq.com", 
+		"mail_pass":"qq邮箱授权码", 
+		"sender":"565111400@qq.com", 
+		"receivers":["zhangsan@qq.com"],
+		"subject":"爬虫数据出现异常"
+
+	},
+	"monitor_mode":[""] 
+}
